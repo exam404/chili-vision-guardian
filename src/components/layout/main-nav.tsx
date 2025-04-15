@@ -30,6 +30,7 @@ export function MainNav() {
           <nav className="flex items-center space-x-4 text-sm font-medium">
             <Link to="/" className="transition-colors hover:text-chili-500">Home</Link>
             <Link to="/dashboard" className="transition-colors hover:text-chili-500">Dashboard</Link>
+            <Link to="/contact" className="transition-colors hover:text-chili-500">Contact</Link>
           </nav>
         </div>
         <div>
